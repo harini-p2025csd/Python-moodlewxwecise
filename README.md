@@ -1,1 +1,1 @@
-# Python-moodlewxwecise
+# Python-moodle exercise
